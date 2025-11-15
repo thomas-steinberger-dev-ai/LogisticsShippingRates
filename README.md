@@ -1,0 +1,2 @@
+# LogisticsShippingRates
+Calculates Shipping Rates
